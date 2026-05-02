@@ -32,14 +32,6 @@ This repo is useful if you are:
 - Looking to understand patterns like Sliding Window, DP, Graphs
 - Interested in clean, production-style Python code
 
----
-
-## 📁 Repository Structure
-
-id="k1nq2x" leetcode_solutions/ │ ├── patterns/              # Pattern-based problem organization │   ├── sliding_window/ │   ├── two_pointers/ │   ├── binary_search/ │   ├── graphs/ │   └── dynamic_programming/ │ ├── templates/             # Reusable algorithm templates ├── notes/                 # Concept explanations and theory ├── tests/                 # Unit tests for selected problems └── README.md
-
----
-
 ## 🧩 How to Use This Repository
 
 ### 1. Start with Patterns (Recommended)
